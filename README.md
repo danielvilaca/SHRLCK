@@ -1,4 +1,4 @@
-# <h1 align="center"><b>SHRLCK</b></h1>
+# <h1 align="center"><b>SHRLCK (Strategic Heuristic Recognition & Lateralization of Cyber Knowledge )</b></h1>
 
 ---
 
