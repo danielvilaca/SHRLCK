@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center">Exploration of Solutions for Malware Recognition in Files Prone to Phishing Techniques </h4>
+<h3 align="center">Exploration of Solutions for Malware Recognition in Files prone to Phishing Techniques </h4>
 
 ---
 
